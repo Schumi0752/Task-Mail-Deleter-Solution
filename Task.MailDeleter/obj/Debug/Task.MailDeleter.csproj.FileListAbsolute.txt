@@ -1,0 +1,14 @@
+c:\users\sumit\documents\visual studio 2012\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Task.MailDeleter.exe.config
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Task.MailDeleter.exe.config
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Task.MailDeleter.exe
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Task.MailDeleter.pdb
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Metrics360.Mail.Data.dll
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Metrics360.Mail.dll
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\ActiveUp.Net.Common.dll
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\ActiveUp.Net.Imap4.dll
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Metrics360.Common.Utilities.dll
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Metrics360.Mail.pdb
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Metrics360.Mail.Data.pdb
+E:\Projects\Task.MailDeleter\Task.MailDeleter\bin\Debug\Metrics360.Common.Utilities.pdb
+E:\Projects\Task.MailDeleter\Task.MailDeleter\obj\Debug\Task.MailDeleter.exe
+E:\Projects\Task.MailDeleter\Task.MailDeleter\obj\Debug\Task.MailDeleter.pdb
